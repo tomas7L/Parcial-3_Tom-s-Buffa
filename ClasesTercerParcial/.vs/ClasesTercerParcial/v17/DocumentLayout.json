@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586B68DD-0313-4064-AE4E-730B9CA23472}|..\\FRONT\\FRONT.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\clasestercerparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:clasestercerparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\FRONT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FRONT\\Program.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\FRONT\\Program.cs",
+              "RelativeToolTip": "..\\FRONT\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:37:10.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\EmpleadoRepository.cs",
+              "RelativeToolTip": "Repository\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:36:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:18:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasesTercerParcial.csproj",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\ClasesTercerParcial.csproj",
+              "RelativeDocumentMoniker": "ClasesTercerParcial.csproj",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\ClasesTercerParcial.csproj",
+              "RelativeToolTip": "ClasesTercerParcial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T13:17:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:14:19.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
