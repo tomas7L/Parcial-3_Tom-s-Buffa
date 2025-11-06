@@ -9,7 +9,9 @@ namespace ClasesTercerParcial.Data
 {
     public class ApplicationDbContext : DbContext
     {
-        public DbSet<Empleado> Empleados { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Venta> Ventas { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(

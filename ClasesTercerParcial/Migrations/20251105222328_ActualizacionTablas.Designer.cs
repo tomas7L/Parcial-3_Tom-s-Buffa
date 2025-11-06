@@ -4,6 +4,7 @@ using ClasesTercerParcial.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ClasesTercerParcial.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251105222328_ActualizacionTablas")]
+    partial class ActualizacionTablas
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -58,8 +61,9 @@ namespace ClasesTercerParcial.Migrations
                     b.Property<decimal>("Precio")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int>("Stock")
-                        .HasColumnType("int");
+                    b.Property<string>("Tipo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -74,35 +78,25 @@ namespace ClasesTercerParcial.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("Cantidad")
+                        .HasColumnType("int");
+
                     b.Property<int>("ClienteId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("Fecha")
                         .HasColumnType("datetime2");
 
-                    b.Property<double>("Total")
-                        .HasColumnType("float");
+                    b.Property<int>("ProductoId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("ClienteId");
 
+                    b.HasIndex("ProductoId");
+
                     b.ToTable("Ventas");
-                });
-
-            modelBuilder.Entity("ProductoVenta", b =>
-                {
-                    b.Property<int>("ProductosId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("VentasId")
-                        .HasColumnType("int");
-
-                    b.HasKey("ProductosId", "VentasId");
-
-                    b.HasIndex("VentasId");
-
-                    b.ToTable("ProductoVenta");
                 });
 
             modelBuilder.Entity("ClasesTercerParcial.Models.Venta", b =>
@@ -113,22 +107,15 @@ namespace ClasesTercerParcial.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("ClasesTercerParcial.Models.Producto", "Producto")
+                        .WithMany()
+                        .HasForeignKey("ProductoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Cliente");
-                });
 
-            modelBuilder.Entity("ProductoVenta", b =>
-                {
-                    b.HasOne("ClasesTercerParcial.Models.Producto", null)
-                        .WithMany()
-                        .HasForeignKey("ProductosId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ClasesTercerParcial.Models.Venta", null)
-                        .WithMany()
-                        .HasForeignKey("VentasId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Navigation("Producto");
                 });
 #pragma warning restore 612, 618
         }

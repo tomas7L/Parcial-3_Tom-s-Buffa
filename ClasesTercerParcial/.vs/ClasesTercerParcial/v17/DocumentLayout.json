@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{586B68DD-0313-4064-AE4E-730B9CA23472}|..\\FRONT\\FRONT.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\clasestercerparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:clasestercerparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|c:\\users\\buffa\\onedrive\\documentos\\programacion 1\\parcial-3_tom-s-buffa\\clasestercerparcial\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882EA629-2D73-4800-9B96-C215793CF265}|ClasesTercerParcial.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,45 +62,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\VentaRepository.cs",
+              "RelativeToolTip": "Repository\\VentaRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:52:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\ProductoRepository.cs",
+              "RelativeToolTip": "Repository\\ProductoRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:25:34.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:06:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:03:40.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\FRONT\\Program.cs",
               "RelativeDocumentMoniker": "..\\FRONT\\Program.cs",
               "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\FRONT\\Program.cs",
               "RelativeToolTip": "..\\FRONT\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAALIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:37:10.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpleadoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\EmpleadoRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\EmpleadoRepository.cs",
-              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\EmpleadoRepository.cs",
-              "RelativeToolTip": "Repository\\EmpleadoRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:36:05.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T13:36:05.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:18:43.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T13:18:43.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:14:19.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ClasesTercerParcial.csproj",
               "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\ClasesTercerParcial.csproj",
               "RelativeDocumentMoniker": "ClasesTercerParcial.csproj",
@@ -92,20 +168,7 @@
               "RelativeToolTip": "ClasesTercerParcial.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T13:17:19.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Empleado.cs",
-              "RelativeDocumentMoniker": "Models\\Empleado.cs",
-              "ToolTip": "C:\\Users\\buffa\\OneDrive\\Documentos\\Programacion 1\\Parcial-3_Tom-s-Buffa\\ClasesTercerParcial\\Models\\Empleado.cs",
-              "RelativeToolTip": "Models\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:14:19.491Z"
+              "WhenOpened": "2025-11-05T13:17:19.788Z"
             }
           ]
         }
