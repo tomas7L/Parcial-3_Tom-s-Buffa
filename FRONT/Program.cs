@@ -223,12 +223,6 @@ namespace FRONT
                                 }
                             }
                         }
-
-                        Console.ReadKey(true);
-                        break;
-
-
-
                         Console.ReadKey(true);
                         break;
                 
